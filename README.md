@@ -57,7 +57,7 @@ data/cleaned/quotes.csv
 
 ## 🎥 Demo Preview
 
-![Web-Extractor-Pro Demo](assets\demo_web_1.png)
+![Web-Extractor-Pro Demo](assets/demo_web_1.png)
 
 This demo shows how **Web-Extractor-Pro** reads URLs, scrapes structured content
 (Quotes, Authors, Tags), cleans it, and exports the data into a ready-to-use CSV —
@@ -96,3 +96,4 @@ Python Developer | Data Cleaning | Web Extraction | Automation
 📍 Bangalore, India
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)
+
