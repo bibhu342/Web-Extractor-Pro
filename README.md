@@ -1,6 +1,8 @@
 ﻿# Web-Extractor-Pro
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://web-extractor-pro-bibhu342.streamlit.app)
+
+> 💻 Live Demo: Upload any CSV and preview the cleaned dataset instantly.
 
 > Production-ready web data extractor — Scrape → Clean → Export
 
