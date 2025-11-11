@@ -90,6 +90,9 @@ Web-Extractor-Pro/
 ## 👨‍💻 Author
 
 **Bibhudendu Behera**
+
 Python Developer | Data Cleaning | Web Extraction | Automation
+
 📍 Bangalore, India
+
 🔗 [LinkedIn](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)
