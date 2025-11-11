@@ -1,0 +1,12 @@
+﻿# Data files
+data/raw_urls.txt
+data/scraped/
+data/cleaned/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter notebooks
+.ipynb_checkpoints/

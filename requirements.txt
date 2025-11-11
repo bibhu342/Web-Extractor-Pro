@@ -1,0 +1,6 @@
+﻿requests
+beautifulsoup4
+pandas
+python-dateutil
+streamlit
+lxml
