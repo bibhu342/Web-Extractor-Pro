@@ -1,5 +1,9 @@
 ﻿# Web-Extractor-Pro
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+
+> Production-ready web data extractor — Scrape → Clean → Export
+
 A production-grade web data extraction mini-product: **Scrape → Clean → Export**. Built for freelance delivery with a CLI and an optional Streamlit demo.
 
 ## Features
